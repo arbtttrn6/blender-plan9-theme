@@ -1,6 +1,6 @@
 # blender-plan9-theme
 Priskribo: La Blendera etoso, kiu similas Plan9'n. Lasta Blendera testita versio - 3.3.1;  
-Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)  
+Aŭtoro: [arbtttrn6](https://github.com/arbtttrn6)  
 
 ## Instalado  
 
